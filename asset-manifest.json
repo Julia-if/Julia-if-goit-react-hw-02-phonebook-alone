@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Julia-if-goit-react-hw-02-phonebook-alone/static/css/main.7acaea2f.css",
-    "main.js": "/Julia-if-goit-react-hw-02-phonebook-alone/static/js/main.07d3183d.js",
+    "main.js": "/Julia-if-goit-react-hw-02-phonebook-alone/static/js/main.0c03771b.js",
     "index.html": "/Julia-if-goit-react-hw-02-phonebook-alone/index.html",
     "main.7acaea2f.css.map": "/Julia-if-goit-react-hw-02-phonebook-alone/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Julia-if-goit-react-hw-02-phonebook-alone/static/js/main.07d3183d.js.map"
+    "main.0c03771b.js.map": "/Julia-if-goit-react-hw-02-phonebook-alone/static/js/main.0c03771b.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.0c03771b.js"
   ]
 }
