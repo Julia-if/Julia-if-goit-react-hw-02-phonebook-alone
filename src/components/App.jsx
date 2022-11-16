@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Formik, Field, Form } from 'formik';
+
 import { nanoid } from 'nanoid';
 export class App extends Component {
   state = {
@@ -42,6 +42,6 @@ onSubmit=(e)=>{
       </ul>      
     </div>
   );
-  }
-}
+    }}
+
 
